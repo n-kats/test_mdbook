@@ -1,0 +1,6 @@
+[book]
+authors = ["n-kats"]
+language = "en"
+multilingual = false
+src = "src"
+title = "test_mdbook"

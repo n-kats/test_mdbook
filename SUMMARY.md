@@ -1,1 +1,1 @@
-- [Hoge](./hoge.md)
+- [HOGE](./HOGE.MD)
